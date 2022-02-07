@@ -1,0 +1,95 @@
+﻿price_lac,area_sqft,bhk,bathrooms,balconies,floors,furnishing_type,location,property_type
+20,560,1,2,1,6,Unfurnished,Brahmavar,Apartment
+20,600,1,1,1,4,Unfurnished,Doddanagudde,Apartment
+20,600,1,1,1,4,Unfurnished,Doddanagudde,Apartment
+12,605,2,2,1,4,Semi furnished,Indrali,Apartment
+15,605,2,2,1,4,Semi furnished,Indrali,Apartment
+19,605,2,2,0,1,Unfurnished,Indrali,Apartment
+17,612,2,,0,3,,Indrali,Apartment
+16,620,2,2,0,1,Furnished,Indrali,Apartment
+12,650,2,2,1,4,Semi furnished,Indrali,Apartment
+20,650,2,2,1,4,Semi furnished,Indrali,Apartment
+24,700,2,2,0,2,Unfurnished,Santhekatte,Apartment
+26,750,1,2,1,9,Unfurnished,Kunjibettu,Apartment
+26.5,760,2,1,0,4,Unfurnished,Indrali,Builder floor
+28,800,2,2,1,3,Unfurnished,Santhekatte,Apartment
+85,800,3,2,0,1,Unfurnished,Katapady,Independent house
+30,804,2,2,1,3,Semi furnished,Kunjibettu,Apartment
+29,827,2,2,2,7,Unfurnished,Indrali,Apartment
+40,835,2,2,1,3,Unfurnished,Kunjibettu,Apartment
+29.5,842,2,2,2,6,Semi furnished,Katapady,Apartment
+35,850,2,2,1,4,Unfurnished,Kunjibettu,Independent house
+30,871,2,2,0,1,Furnished,Ambalpady,Independent house
+32,,2,2,2,4,Semi furnished,Kunjibettu,Apartment
+35,985,2,2,0,7,Unfurnished,Brahmavar,Apartment
+15,1000,1,1,0,1,Unfurnished,Indrali,Independent house
+31,1000,2,2,1,4,Semi furnished,Manipal,Apartment
+36,1000,2,2,1,4,Unfurnished,Santhekatte,Apartment
+37,1000,2,2,1,5,Unfurnished,Ambalpady,Apartment
+40,1000,2,1,0,1,Unfurnished,Santhekatte,Independent house
+40,1000,2,1,1,1,Unfurnished,Santhekatte,Independent house
+55,1000,2,2,2,7,Furnished,Manipal,Apartment
+21.37,1069,2,2,1,4,,Shanti nagar,Apartment
+38,1085,2,2,2,4,Unfurnished,Ambalpady,Apartment
+42,1145,2,2,1,3,Unfurnished,Manipal,Apartment
+42,1180,2,2,2,8,Semi furnished,Manipal,Apartment
+15,1200,2,,0,1,Unfurnished,Indrali,Independent house
+40,1200,2,2,1,1,Unfurnished,Brahmavar,Independent house
+45,1200,2,2,2,7,Furnished,Manipal,Apartment
+30,1275,2,2,0,4,Unfurnished,Santhekatte,Apartment
+33,1280,2,2,2,4,Unfurnished,Santhekatte,Apartment
+55,1300,2,2,2,12,Unfurnished,Manipal,Apartment
+25,1308,2,2,0,1,Unfurnished,Alevoor,Independent house
+52.4,1310,2,2,0,3,Unfurnished,Kunjibettu,Apartment
+34,1331,2,2,1,5,Semi furnished,Brahmavar,Apartment
+46,1335,2,2,2,9,Unfurnished,Manipal,Apartment
+47,,2,2,2,9,Unfurnished,Manipal,Apartment
+48,1350,2,2,1,6,Furnished,Manipal,Apartment
+39,1400,3,3,3,5,Unfurnished,Santhekatte,Apartment
+31,1450,2,2,1,3,Semi furnished,Brahmavar,Apartment
+31,1450,2,2,1,3,Semi furnished,Brahmavar,Apartment
+63,1470,3,2,1,8,Unfurnished,Manipal,Apartment
+75,1487,3,,0,7,Semi furnished,Ambalpady,Apartment
+50,1490,3,3,3,9,Unfurnished,Shanti nagar,Apartment
+65,1500,3,3,2,9,Semi furnished,Manipal,Apartment
+56,1540,2,2,2,12,Unfurnished,Indrali,Apartment
+65,1580,2,2,2,10,Semi furnished,Ambalpady,Apartment
+53,1600,3,3,1,2,Semi furnished,Santhekatte,Independent house
+70,1600,3,3,3,9,Unfurnished,Kunjibettu,Apartment
+32.34,1618,3,3,2,4,Unfurnished,Shanti nagar,Apartment
+55,1625,3,2,2,4,Semi furnished,Katapady,Apartment
+65.6,1640,3,3,0,3,Unfurnished,Kunjibettu,Apartment
+62,1656,2,2,2,10,Semi furnished,Ambalpady,Apartment
+63,1656,2,2,2,9,Semi furnished,Ambalpady,Apartment
+63,1695,4,3,2,5,Unfurnished,Manipal,Apartment
+63,1695,4,3,2,5,Semi furnished,Manipal,Apartment
+61,1705,3,3,2,4,Semi furnished,Manipal,Apartment
+90,1850,4,2,1,2,Unfurnished,Santhekatte,Independent house
+125,1900,4,4,3,2,Semi furnished,Saralabettu,Independent house
+55,2175,2,2,1,1,Furnished,Saralabettu,Independent house
+95,2178,4,3,1,1,Furnished,Perampalli,Independent house
+175,2178,5,4,1,2,Unfurnished,Kunjibettu,Independent house
+48,2400,2,2,1,1,Semi furnished,Santhekatte,Independent house
+80,2420,3,3,1,1,Semi furnished,Santhekatte,Independent house
+50,2482,2,1,1,2,Unfurnished,Kunjibettu,Independent house
+60,2500,2,2,0,3,Unfurnished,Doddanagudde,Builder floor
+60,2500,2,2,2,3,Semi furnished,Doddanagudde,Apartment
+95,2600,3,3,1,2,Semi furnished,Manipal,Independent house
+120,2600,3,3,1,2,Unfurnished,Santhekatte,Independent house
+38,2831,2,1,0,1,Unfurnished,Brahmavar,Independent house
+62,2918,4,3,1,2,Unfurnished,Manipal,Independent house
+52,3049,2,2,1,1,Semi furnished,Shanti nagar,Independent house
+160,3049,4,5,3,2,Semi furnished,Manipal,Independent house
+90,3702,3,2,2,2,Unfurnished,Santhekatte,Independent house
+55,3811,2,2,0,4,Unfurnished,Santhekatte,Independent house
+65,3920,4,4,1,1,Semi furnished,Santhekatte,Independent house
+161,4000,5,5,2,2,Unfurnished,Katapady,Independent house
+75,4356,2,1,0,1,Unfurnished,Santhekatte,Independent house
+150,4356,4,3,0,2,Unfurnished,Santhekatte,Independent house
+50,4357,3,2,2,2,Unfurnished,Santhekatte,Independent house
+180,4500,3,3,2,2,Unfurnished,Santhekatte,Independent house
+59,4573,2,2,0,1,Unfurnished,Manipal,Independent house
+150,5227,5,5,0,3,Semi furnished,Kunjibettu,Independent house
+150,6500,3,2,2,1,Semi furnished,Katapady,Independent house
+58,6534,3,2,0,1,Unfurnished,Ambalpady,Independent house
+150,8720,2,2,0,1,Unfurnished,Doddanagudde,Independent house
